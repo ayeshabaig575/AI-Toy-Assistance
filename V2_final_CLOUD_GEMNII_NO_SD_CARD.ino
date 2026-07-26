@@ -5,7 +5,7 @@
 #include <math.h>
 
 // ================= WIFI =================
-#define WIFI_SSID "SALLU"
+#define WIFI_SSID "BAIGG"
 #define WIFI_PASS "123456789"
 
 // ================= SERVER ===============
